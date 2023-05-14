@@ -11,9 +11,9 @@ title                    : "Sizhe (Benny) Sui / Site Title"
 title_separator          : "-"
 name                     : &name "Sizhe Sui"
 description              : &description "MSc of Robotics in SJTU"
-url                      : https://sizhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ssz990220.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ssz990220/sizhe.github.io"
+repository               : "Ssz990220/ssz990220.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
