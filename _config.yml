@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sizhe (Benny) Sui / Site Title"
+title                    : "Sizhe (Benny) Sui"
 title_separator          : "-"
 name                     : &name "Sizhe Sui"
 description              : &description "MSc of Robotics in SJTU"
