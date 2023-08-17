@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Robotics
 venue: "Shanghai Jiao Tong University, Mechanical Engineering Department"
-date: 2022-02~2022-06
+date: 2022-02-28
 location: "Shanghai, China"
 ---
 
