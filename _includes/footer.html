@@ -1,8 +1,8 @@
 {% include base_path %}
 
-<div class = "footer_content" style="text-align:center;">
+<div class = "footer_content">
   <div class="page__footer-follow">
-    <ul class="social-icons" style="float:left;">
+    <ul class="social-icons">
       {% if site.data.ui-text[site.locale].follow_label %}
         <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
       {% endif %}
@@ -20,10 +20,6 @@
       {% endif %}
       <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
     </ul>
-  </div>
-  
-  <div class = "map"  style="float:right;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=fJcIbxjpwHENo4fxVaMXyL0x2121MZhnCOv-m_ray-Y&cl=ffffff&w=a"></script>
   </div>
 </div>
 
