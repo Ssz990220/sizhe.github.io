@@ -1,6 +1,6 @@
 ---
 title: "Large Scale Workpiece Measurement"
-collection: Proejct
+collection: projects
 type: "Undergraduate Thesis Project"
 permalink: /projects/Large Scale Workpiece Measurement
 venue: "Shanghai Jiao Tong University, Mechanical Engineering Department"
