@@ -45,7 +45,7 @@
         {% elsif post.collection == 'projects' %}
           <p>{{ post.date | default: "1900-01-01" | date: "%B %Y" }}
             {% if post.github %}
-              <a href = "{{post.github}}">{{GitHub}}</a>
+              , <a href = "{{post.github}}">{{GitHub}}</a>
             {% endif %}  
             </p>
         {% elsif post.date %}

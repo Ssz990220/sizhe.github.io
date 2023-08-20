@@ -4,6 +4,7 @@ collection: projects
 excerpt: "<img src='/images/Measure.gif'>"
 permalink: /projects/Large Scale Workpiece Measurement
 venue: "Shanghai Jiao Tong University, Mechanical Engineering Department"
+github: "https://github.com/Ssz990220/Kinematic_Param_Calibration"
 date: 2022-06-05
 location: "Shanghai, China"
 ---
