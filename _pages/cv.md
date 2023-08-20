@@ -54,8 +54,8 @@ Skills
     * [Driver2: JAKA Robot Trajectory Recorder](https://github.com/Ssz990220/JAKA_Traj_control)
     * [Project8⭐: Learn to walk with Reinforcement Learning](https://github.com/Ssz990220/Learn-2-walk)
   * ROS:
-    * Driver3: ABB 4600 Controller Interface (Close-Sourced)
-    * Driver4: ABB 4600 - JAKA Zu 12 Dual Robot MoveIt Controller Interface (Close-Sourced)
+    * Driver3⭐: ABB 4600 Controller Interface (Close-Sourced)
+    * Driver4⭐: ABB 4600 - JAKA Zu 12 Dual Robot MoveIt Controller Interface (Close-Sourced)
   * Others: Pybullet, OpenAI Gym, RLLib, Solidworks, Stable-Baseline, Linux, OpenWRT, Photoshop, MAYA
 
 Publications
@@ -72,5 +72,7 @@ Teaching
   
 Service and leadership
 ======
-* Former Leader of Nanyang News Agency's (SJTU Official News Agency) Photography Team
-  * 
+* Leader of Nanyang News Agency's (SJTU Official News Agency) Photography Team
+  * Taking photos(partially exhibited in [Portfolio](https://ssz990220.github.io/portfolio/)) for major school events and school scenes.
+  * Photos published on Nation's Major News Publisher [Link1](https://www.sohu.com/a/339557553_407267) [Link2](https://www.sohu.com/a/416720891_407267)
+  * Planning, organizing, producing, and publishing WeChat public account articles with over 30,000 views. [Link1](https://mp.weixin.qq.com/s/XwFcQTaO_BzMLvCzpPzMKg), [Link2](https://mp.weixin.qq.com/s/GRR6uVv3mcGOwVntBKTDUA), [Link3](https://mp.weixin.qq.com/s/Su6WE1mHkHESK9LeeNaCFA)
