@@ -42,7 +42,7 @@ Skills
   * MATLAB: 
     * [Project4: Time Optimal Trajectory Generation based on Convex Optimization](https://github.com/Ssz990220/Time_Optimal_Trajectory_Control)
     * [Project5: Time Optimal Trajectory Generation based on Linear Programming](https://github.com/Ssz990220/Minimum_Time_Velocity_Planning)
-    * [Project6: Path Planning for Robot Interior Cavity Measurement](https://github.com/Ssz990220/Pipe_Interior_Measurement)
+    * [Project6: Path Planning for Robotic Interior Cavity Measurement](https://github.com/Ssz990220/Pipe_Interior_Measurement)
     * [Project7⭐: POE Based Kinematic Calibration of Serial Robot](https://github.com/Ssz990220/Kinematic_Param_Calibration)
   * C++
   * CUDA:
