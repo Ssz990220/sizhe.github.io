@@ -11,41 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Shanghai, Shanghai Jiao Tong University, 2017-2021
+  * Graduated from Hsue-shen Tsien Honored Program (Top 5%)
+  * Supervised by [Prof. Ye Ding](https://www.researchgate.net/profile/Ye-Ding-10)
+* M.S. in Shanghai, Shanghai Jiao Tong University, 2021-2024 (expected)
+  * Related Courses: Scientific Computation, Numerical Analysis, Optimization Method, Discrete Signal Processing, Mechanical System Dynamics
+  * Supervisor: [Prof. Ye Ding](https://www.researchgate.net/profile/Ye-Ding-10)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Intern
+  * University of Toronto, Vector Institute
+  * Supervisor: [Prof. Animesh Garg](https://animesh.garg.tech/)
+  * Conducted researh on in-hand manipulation with multi-agent reinforcement learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Intern
+  * University of Texas Austin, ASE/ME
+  * Supervisor: [Prof. Luis Sentis](https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis)
+  * Collaborator: [Dr. Andrew Bylard](https://stanfordasl.github.io//people/andrew-bylard/)
+  * Design High Peformance, ray-tracing-based collision detector
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+⭐: Featured Projects
+* Programming Languages
+  * Julia: 
+    * [Project1⭐: Dual Robot Calibration](https://github.com/Ssz990220/GC_DualRobot)
+    * [Project2⭐: Point Cloud Registration](https://github.com/Ssz990220/JuliaPointCloud)
+    * [Tutorial1: Numpy & Julia Tutorial](https://github.com/Ssz990220/python-julia-tutorial)
+  * MATLAB: 
+    * [Project4: Time Optimal Trajectory Generation based on Convex Optimization](https://github.com/Ssz990220/Time_Optimal_Trajectory_Control)
+    * [Project5: Time Optimal Trajectory Generation based on Linear Programming](https://github.com/Ssz990220/Minimum_Time_Velocity_Planning)
+    * [Project6: Path Planning for Robot Interior Cavity Measurement](https://github.com/Ssz990220/Pipe_Interior_Measurement)
+    * [Project7⭐: POE Based Kinematic Calibration of Serial Robot](https://github.com/Ssz990220/Kinematic_Param_Calibration)
+  * C++
+  * CUDA:
+    * Optix Engine for hardware ray-tracing programming
+    * [Cert1: Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/75e873a1aacd43808fe437bccfb0df25/)
+    * [Cert2: Accelerating CUDA C++ Applications with Concurrent Streams](https://courses.nvidia.com/certificates/4e480fbf3a6441939a631ab1a34e36b9/)
+  * Python:
+    * [Driver1: Modbus Servo Control](https://github.com/Ssz990220/Servo-Motor-Ctl)
+    * [Driver2: JAKA Robot Trajectory Recorder](https://github.com/Ssz990220/JAKA_Traj_control)
+    * [Project8⭐: Learn to walk with Reinforcement Learning](https://github.com/Ssz990220/Learn-2-walk)
+  * ROS:
+    * Driver3: ABB 4600 Controller Interface (Close-Sourced)
+    * Driver4: ABB 4600 - JAKA Zu 12 Dual Robot MoveIt Controller Interface (Close-Sourced)
+  * Others: Pybullet, OpenAI Gym, RLLib, Solidworks, Stable-Baseline, Linux, OpenWRT, Photoshop, MAYA
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -56,4 +72,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Former Leader of Nanyang News Agency's (SJTU Official News Agency) Photography Team
+  * 
