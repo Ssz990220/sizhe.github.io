@@ -15,3 +15,6 @@ His research interests involve (multi) robot kinematics calibration, motion plan
 He has an in-depth understanding of <b>robot kinematic parameter calibration, multi-robot system calibration, time optimal trajectory planning, sample-based motion planning and point cloud registration</b> thanks to his participation and dedication in [previous projects](https://ssz990220.github.io/projects/). He also has rich experience with hardware robotics platforms by building experiment environments from scratch with ROS.
 
 In his leisure time, he is a breath-stroke swimmer and a photographer (part-time Photojournalism). Some of his works are exhibited in [Portfolios](https://ssz990220.github.io/portfolio/).
+
+# News
+* My recent work <i>Solving the AXB=YCZ Problem for a Dual-Robot System with Geometric Calculus</i> was accepted by <b>IEEE Transactions of Automation and Science (TASE)</b>. Read [Publicaions](https://ssz990220.github.io/publications/) for detail!
