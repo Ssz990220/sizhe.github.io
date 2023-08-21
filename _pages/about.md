@@ -17,4 +17,4 @@ He has an in-depth understanding of <b>robot kinematic parameter calibration, mu
 In his leisure time, he is a breath-stroke swimmer and a photographer (part-time Photojournalism). Some of his works are exhibited in [Portfolios](https://ssz990220.github.io/portfolio/).
 
 # News
-* My recent work <i>Solving the AXB=YCZ Problem for a Dual-Robot System with Geometric Calculus</i> was accepted by <b>IEEE Transactions of Automation and Science (TASE)</b>. Read [Publicaions](https://ssz990220.github.io/publications/) for detail!
+* My recent work <i>Solving the AXB=YCZ Problem for a Dual-Robot System with Geometric Calculus</i> was accepted by <b>IEEE Transactions of Automation and Science (TASE)</b>. Read [Publicaions](https://ssz990220.github.io/publications/) and [GitHub](https://github.com/Ssz990220/GC_DualRobot) for detail!
