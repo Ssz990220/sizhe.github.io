@@ -1,6 +1,6 @@
 ---
 title: "Sakura in the campus"
-excerpt: "Always nice to have a walk in the spring when Sakura is blooming.<br/><img src='/images/sakura/DSC_7105.jpg'>"
+excerpt: "Always nice to have a walk in the spring when Sakura is blooming.<br/><img src='/images/sakura/DSC_7105.jpg' width="40%"/>"
 collection: portfolio
 ---
 ![](/images/sakura/DSC_7105.jpg)

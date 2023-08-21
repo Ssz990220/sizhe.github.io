@@ -1,6 +1,6 @@
 ---
 title: "Trip to Tebit"
-excerpt: "The place you must go to once in your life<br/><img src='/images/Trip to Tibet/DSC_6936.jpg'>"
+excerpt: "The place you must go to once in your life<br/><img src='/images/Trip to Tibet/DSC_6936.jpg' width="40%"/>"
 collection: portfolio
 ---
 ![](/images/sakura/DSC_6930.jpg)
