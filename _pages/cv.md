@@ -74,5 +74,5 @@ Service and leadership
 ======
 * Leader of Nanyang News Agency's (SJTU Official News Agency) Photography Team
   * Taking photos(partially exhibited in [Portfolio](https://ssz990220.github.io/portfolio/)) for major school events and school scenes.
-  * Photos published on Nation's Major News Publisher [Link1](https://www.sohu.com/a/339557553_407267) [Link2](https://www.sohu.com/a/416720891_407267)
-  * Planning, organizing, producing, and publishing WeChat public account articles with over 30,000 views. [Link1](https://mp.weixin.qq.com/s/XwFcQTaO_BzMLvCzpPzMKg), [Link2](https://mp.weixin.qq.com/s/GRR6uVv3mcGOwVntBKTDUA), [Link3](https://mp.weixin.qq.com/s/Su6WE1mHkHESK9LeeNaCFA)
+  * Photos published on Nation's Major News Publisher <!-- [Link1](https://www.sohu.com/a/339557553_407267) [Link2](https://www.sohu.com/a/416720891_407267) -->
+  * Planning, organizing, producing, and publishing WeChat public account articles with over 30,000 views. <!--[Link1](https://mp.weixin.qq.com/s/XwFcQTaO_BzMLvCzpPzMKg), [Link2](https://mp.weixin.qq.com/s/GRR6uVv3mcGOwVntBKTDUA), [Link3](https://mp.weixin.qq.com/s/Su6WE1mHkHESK9LeeNaCFA) -->
