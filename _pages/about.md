@@ -20,5 +20,7 @@ In his leisure time, he is a breath-stroke swimmer and a photographer (part-time
 * Just finished my visiting scholar program at UT Austin with Prof. Luis Sentis. Thank you so much for hosting me this summer!
 <div style="text-align:center"><img src="./images/atAustin.jpg" alt="Photo with Prof. Sentis" height="500" width="auto"/></div>.
 * My recent work <i>Solving the AXB=YCZ Problem for a Dual-Robot System with Geometric Calculus</i> was accepted by <b>IEEE Transactions of Automation and Science (TASE)</b>. Read [Publicaions](https://ssz990220.github.io/publications/) and [GitHub](https://github.com/Ssz990220/GC_DualRobot) for detail!
-
+<iframe width="420" height="315"
+src="https://drive.google.com/file/d/1lMInkv49hMnfQq4IIiVBV9z2qhXOunj2/view?usp=drive_link">
+</iframe>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=fJcIbxjpwHENo4fxVaMXyL0x2121MZhnCOv-m_ray-Y'></script>
