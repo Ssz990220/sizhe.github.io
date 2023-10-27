@@ -1,7 +1,7 @@
 ---
 title: "Thin-wall balde feature reconstruction"
 collection: projects
-excerpt: "<img src='/images/GMM.gif'>"
+excerpt: "<img src='/images/GMM.gif' width=300px>"
 permalink: /projects/Thin-wall balde feature reconstruction
 venue: "Shanghai Jiao Tong University, Mechanical Engineering Department"
 github: "https://github.com/Ssz990220/Pipe_Interior_Measurement"

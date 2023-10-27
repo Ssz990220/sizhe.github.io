@@ -1,7 +1,7 @@
 ---
 title: "Learn to walk with Reinforcement Learning"
 collection: projects
-excerpt: "<img src='/images/Humanoid_Modified_Result.gif'>"
+excerpt: "<img src='/images/Humanoid_Modified_Result.gif' width=300px>"
 permalink: /projects/Large Scale Workpiece Measurement
 venue: "Shanghai Jiao Tong University, Mechanical Engineering Department"
 github: "https://github.com/Ssz990220/Learn-2-walk"

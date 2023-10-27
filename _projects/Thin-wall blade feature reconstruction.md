@@ -1,7 +1,7 @@
 ---
 title: "Thin-wall balde feature reconstruction"
 collection: projects
-excerpt: "<img src='/images/thinBlade.png'>"
+excerpt: "<img src='/images/thinBlade.png' width=300px>"
 permalink: /projects/Thin-wall balde feature reconstruction
 venue: "Shanghai Jiao Tong University, Mechanical Engineering Department"
 github: "https://github.com/Ssz990220/JuliaPointCloud"
