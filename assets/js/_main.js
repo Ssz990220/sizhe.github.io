@@ -96,3 +96,12 @@ $(document).ready(function(){
   });
 
 });
+
+
+$(document).ready(function(){
+  $('.slick-slider').slick({
+      autoplay: true,
+      dots: true,
+      arrows: true,
+  });
+});
