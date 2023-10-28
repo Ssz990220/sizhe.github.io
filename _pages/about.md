@@ -22,4 +22,4 @@ In his leisure time, he is a breath-stroke swimmer and a photographer (part-time
 * My recent work <i>Solving the AXB=YCZ Problem for a Dual-Robot System with Geometric Calculus</i> was accepted by <b>IEEE Transactions of Automation and Science (TASE)</b>. The system is built from scratch with JAKA Zu12, ABB 4600, ROS and Gocator 3210 Camera. Read [Publicaions](https://ssz990220.github.io/publications/) and [GitHub](https://github.com/Ssz990220/GC_DualRobot) for detail!
 <iframe width=320px height=180px src="https://www.youtube.com/embed/FBffgWNQGQk" frameborder="0" allowfullscreen>
 </iframe>
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=fJcIbxjpwHENo4fxVaMXyL0x2121MZhnCOv-m_ray-Y'></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=fJcIbxjpwHENo4fxVaMXyL0x2121MZhnCOv-m_ray-Y'></script>
