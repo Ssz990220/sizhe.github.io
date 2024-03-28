@@ -17,9 +17,16 @@ He has an in-depth understanding of <b>robot kinematic parameter calibration, mu
 In his leisure time, he is a breath-stroke swimmer and a photographer (part-time Photojournalism). Some of his works are exhibited in [Portfolios](https://ssz990220.github.io/portfolio/).
 
 # News
-* Just finished my visiting scholar program at UT Austin with Prof. Luis Sentis. Thank you so much for hosting me this summer!
-<div style="text-align:center"><img src="./images/atAustin.jpg" alt="Photo with Prof. Sentis" height=320px width="auto"/></div>.
+* Honored to Serve as the Commencement Speaker for the Mechanical Engineering Department at Shanghai Jiao Tong University! (March 26, 2024)
+<div style="text-align:center">
+  <img src="./images/Speaker.jpg" alt="Commencement Speaker" style="max-width: 40%;" />
+</div>
+* Awarded the 'Outstanding Master's Thesis' for the Class of 2024!
+* Finished my visiting scholar program at UT Austin with Prof. Luis Sentis. Thank you so much for hosting me this summer!
+<div style="text-align:center">
+  <img src="./images/atAustin.jpg" alt="Photo with Prof. Sentis" style="max-width: 80%;" />
+</div>
 * My recent work <i>Solving the AXB=YCZ Problem for a Dual-Robot System with Geometric Calculus</i> was accepted by <b>IEEE Transactions of Automation and Science (TASE)</b>. The system is built from scratch with JAKA Zu12, ABB 4600, ROS and Gocator 3210 Camera. Read [Publicaions](https://ssz990220.github.io/publications/) and [GitHub](https://github.com/Ssz990220/GC_DualRobot) for detail!
-<iframe width=320px height=180px src="https://www.youtube.com/embed/FBffgWNQGQk" frameborder="0" allowfullscreen>
+<iframe width="320px" height="180px" src="https://www.youtube.com/embed/FBffgWNQGQk" frameborder="0" allowfullscreen>
 </iframe>
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=fJcIbxjpwHENo4fxVaMXyL0x2121MZhnCOv-m_ray-Y'></script> -->
