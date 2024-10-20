@@ -17,7 +17,7 @@ He has an in-depth understanding of <b>robot kinematic parameter calibration, mu
 In his leisure time, he is a breath-stroke swimmer and a photographer (part-time Photojournalism). Some of his works are exhibited in [Portfolios](https://ssz990220.github.io/portfolio/).
 
 # News
-* **I will commence my journey as a Ph.D. candidate at the University of Texas at Austin this summer, under the guidance of Professor Luis Sentis!**
+* New paper submitted to ICRA! [Hardware-Accelerated Ray Tracing for Discrete and Continuous Collision Detection on GPUs](https://arxiv.org/abs/2409.09918)
 * I am privileged to have been selected as the Commencement Speaker for the Mechanical Engineering Department at Shanghai Jiao Tong University! (March 26, 2024)
 <div style="text-align:center">
   <img src="./images/Speaker.jpg" alt="Commencement Speaker" style="max-width: 40%;" />
